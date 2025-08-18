@@ -39,5 +39,4 @@
 ## 📫 Contact
 - Email: biswasarpramanik@gmail.com
 
-- ⚡ Fun fact: ...
 -->
