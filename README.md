@@ -28,11 +28,15 @@
 ---
 
 ## 📌 Featured Repos
-- [linux-playground](#) → Bandit solutions, shell scripts, Linux notes  
-- [python-snippets](#) → small Python automation projects  
-- [journal-2025](#) → weekly log of learning & progress  
+- [linux-playground](https://github.com/biswasar/linux-playground) → Bandit solutions, shell scripts, Linux notes  
+- [python-snippets](https://github.com/biswasar/python-snippets) → small Python automation projects  
+- [journal-2025](https://github.com/biswasar/journal-2025) → weekly log of learning & progress  
 
 ---
 
 ## 📫 Contact
 - Email: biswasarpramanik@gmail.com
+
+---
+
+**“Strong opinions, loosely held.”** *– Paul Saffo*
