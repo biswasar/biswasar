@@ -4,12 +4,12 @@
 🔐 Building skills in **Linux, Python, and Web Security → Cloud Security**  
 📂 Documenting my journey through code, notes, and projects  
 
-![Student](https://img.shields.io/badge/Student-Cybersecurity%20@LPU-blue?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Student](https://img.shields.io/badge/Student-Cybersecurity%20@LPU-blue?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
@@ -28,9 +28,20 @@
 ---
 
 ## 📌 Featured Repos
-- [linux-playground](https://github.com/biswasar/linux-playground) → Bandit solutions, shell scripts, Linux notes  
-- [python-snippets](https://github.com/biswasar/python-snippets) → small Python automation projects  
-- [journal-2025](https://github.com/biswasar/journal-2025) → weekly log of learning & progress  
+- [linux-playground](https://github.com/biswasar/linux-playground) → Bandit solutions, shell scripts, Linux notes
+  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/linux-playground?style=flat) 
+  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/linux-playground?style=flat) 
+  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/linux-playground?style=flat)
+  
+- [python-snippets](https://github.com/biswasar/python-snippets) → small Python automation projects
+  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/python-snippets?style=flat) 
+  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/python-snippets?style=flat) 
+  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/python-snippets?style=flat)
+  
+- [journal-2025](https://github.com/biswasar/journal-2025) → weekly log of learning & progress
+  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/journal-2025?style=flat) 
+  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/journal-2025?style=flat) 
+  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/journal-2025?style=flat)
 
 ---
 
