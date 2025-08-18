@@ -1,7 +1,5 @@
 # Hi, I'm Biswasar 👋  
 
----
-
 🎓 B.Tech Cybersecurity & Blockchain @ LPU  
 🔐 Building skills in **Linux, Python, and Web Security → Cloud Security**  
 📂 Documenting my journey through code, notes, and projects  
