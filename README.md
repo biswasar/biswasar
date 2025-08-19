@@ -38,10 +38,10 @@
   ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/pyfragments?style=flat) 
   ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/pyfragments?style=flat)
   
-- [journal-2025](https://github.com/biswasar/journal-2025) → weekly log of learning & progress
-  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/journal-2025?style=flat) 
-  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/journal-2025?style=flat) 
-  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/journal-2025?style=flat)
+- [logs-2025](https://github.com/biswasar/logs) → weekly log of learning & progress
+  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/logs?style=flat) 
+  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/logs?style=flat) 
+  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/logs?style=flat)
 
 ---
 
