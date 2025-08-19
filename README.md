@@ -28,15 +28,15 @@
 ---
 
 ## 📌 Featured Repos
-- [linux-playground](https://github.com/biswasar/linux-playground) → Bandit solutions, shell scripts, Linux notes
-  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/linux-playground?style=flat) 
-  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/linux-playground?style=flat) 
-  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/linux-playground?style=flat)
+- [shellcraft](https://github.com/biswasar/shellcraft) → Bandit solutions, shell scripts, Linux notes
+  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/shellcraft?style=flat) 
+  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/shellcraft?style=flat) 
+  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/shellcraft?style=flat)
   
-- [python-snippets](https://github.com/biswasar/python-snippets) → small Python automation projects
-  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/python-snippets?style=flat) 
-  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/python-snippets?style=flat) 
-  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/python-snippets?style=flat)
+- [pyfragments](https://github.com/biswasar/pyfragments) → small Python automation projects
+  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/pyfragments?style=flat) 
+  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/pyfragments?style=flat) 
+  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/pyfragments?style=flat)
   
 - [journal-2025](https://github.com/biswasar/journal-2025) → weekly log of learning & progress
   ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/journal-2025?style=flat) 
