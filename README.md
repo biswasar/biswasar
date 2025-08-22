@@ -34,21 +34,6 @@
   ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/deb-to-rpm-via-fpm?style=flat) 
   ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/deb-to-rpm-via-fpm?style=flat)
 
-- [shellcraft](https://github.com/biswasar/shellcraft) → Bandit solutions, shell scripts, Linux notes
-  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/shellcraft?style=flat) 
-  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/shellcraft?style=flat) 
-  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/shellcraft?style=flat)
-  
-- [pyfragments](https://github.com/biswasar/pyfragments) → small Python automation projects
-  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/pyfragments?style=flat) 
-  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/pyfragments?style=flat) 
-  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/pyfragments?style=flat)
-  
-- [logs-2025](https://github.com/biswasar/logs-2025) → weekly log of learning & progress
-  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/logs-2025?style=flat) 
-  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/logs-2025?style=flat) 
-  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/logs-2025?style=flat)
-
 ---
 
 ## 📫 Contact
