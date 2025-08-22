@@ -28,6 +28,12 @@
 ---
 
 ## 📌 Featured Repos
+
+- [📦 deb-to-rpm-via-fpm](https://github.com/biswasar/deb-to-rpm-via-fpm) → A professional, repeatable guide for converting `.deb` packages into RPMs on Fedora using **FPM (Effing Package Management)**. Includes a real-world case study of running CodeTantra Secure Exam App on Fedora.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/deb-to-rpm-via-fpm?style=flat) 
+  ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/deb-to-rpm-via-fpm?style=flat) 
+  ![GitHub top language](https://img.shields.io/github/languages/top/biswasar/deb-to-rpm-via-fpm?style=flat)
+
 - [shellcraft](https://github.com/biswasar/shellcraft) → Bandit solutions, shell scripts, Linux notes
   ![GitHub last commit](https://img.shields.io/github/last-commit/biswasar/shellcraft?style=flat) 
   ![GitHub repo stars](https://img.shields.io/github/stars/biswasar/shellcraft?style=flat) 
