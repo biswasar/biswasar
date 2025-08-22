@@ -1,4 +1,4 @@
-# Hi, I'm Biswasar 👋  
+# Hi! I'm Biswasar 👋  
 
 🎓 B.Tech Cybersecurity & Blockchain @ LPU  
 🔐 Building skills in **Linux, Python, and Web Security → Cloud Security**  
